@@ -1,4 +1,4 @@
-name: risc-v
+name: risc-v-debug
 
 on:
   push:
